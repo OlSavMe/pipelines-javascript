@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/a1603185/a1603185/_apis/build/status/OlSavMe.pipelines-javascript?branchName=master)](https://dev.azure.com/a1603185/a1603185/_build/latest?definitionId=2&branchName=master)
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
